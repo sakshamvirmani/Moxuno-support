@@ -5,7 +5,7 @@ title: Moxuno Privacy Policy
 
 # Moxuno privacy policy
 
-> **Pending publication:** This page is a GitHub Pages source draft. It is not the live policy for a released app. The owner must approve the exact release behavior, hosting URL, and effective date before publication.
+> **Published draft:** This page is publicly reachable for owner review, but it is not the final policy for a released app. The owner must approve the exact release behavior and effective date before treating it as final policy.
 
 **Publisher:** Saksham Virmani<br>
 **Support:** [support@sakshamvirmani.com](mailto:support@sakshamvirmani.com)<br>
@@ -24,9 +24,9 @@ Moxuno uses:
 - Your setup state and ritual history, stored locally on the device.
 - Your selected Screen Time apps, categories, and websites. Apple represents these selections with opaque tokens; Moxuno does not need to know their names or send them to a server.
 - Apple Family Controls, Managed Settings, and Device Activity services to request authorization and apply the boundary you choose.
-- Core Motion CMPedometer step data during the Move ritual when you grant motion access. Steps are used for that ritual and are not uploaded.
+- Core Motion `CMPedometer` step data during the Move ritual when you grant motion access. Steps are used for that ritual and are not uploaded.
 
-The production app stores shared selection and window state in the App Group container group.com.moxuno.app so the app and its Screen Time extensions can coordinate locally. Test and unavailable-container paths may use local app storage instead.
+The production app stores shared selection and window state in the App Group container `group.com.moxuno.app` so the app and its Screen Time extensions can coordinate locally. Test and unavailable-container paths may use local app storage instead.
 
 Moxuno does not request an account and the current source has no developer cloud, network service, analytics, advertising, crash-reporting, or third-party tracking. It has no billing, purchase, subscription, or payment flow. It does not request contacts, location, photos, camera, microphone, or Health data.
 
@@ -46,10 +46,10 @@ Moxuno is designed for individual self-management by adults. The final age ratin
 
 ## Changes to this policy
 
-Material changes to local storage, Screen Time use, motion access, account or cloud behavior, analytics, or billing require an updated policy and App Privacy review. The owner will publish a reachable policy URL and effective date after approving the release.
+Material changes to local storage, Screen Time use, motion access, account or cloud behavior, analytics, or billing require an updated policy and App Privacy review. The owner will confirm the reachable policy URL and effective date after approving the release.
 
 ## Contact
 
 For support, email [support@sakshamvirmani.com](mailto:support@sakshamvirmani.com). Include the Moxuno version, iOS version, device model, and a description of the issue. Do not include Screen Time tokens or private browsing details.
 
-The legal address and public hosting URL are not supplied in this draft.
+The legal address is not supplied in this draft. The currently reachable public URL is recorded in the T08 publication evidence.

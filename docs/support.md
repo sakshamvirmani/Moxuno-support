@@ -5,7 +5,7 @@ title: Moxuno Support
 
 # Moxuno support and FAQ
 
-> **Pending publication:** This page is a GitHub Pages source draft. It is not a live support page and does not replace signed-device or release testing.
+> **Published draft:** This page is publicly reachable for owner review, but it is not final customer support documentation and does not replace signed-device or release testing.
 
 **Publisher:** Saksham Virmani<br>
 **Support:** [support@sakshamvirmani.com](mailto:support@sakshamvirmani.com)
@@ -51,4 +51,4 @@ Reset is an equal ritual alternative. Move can read Core Motion step data while 
 
 Email [support@sakshamvirmani.com](mailto:support@sakshamvirmani.com). Include the Moxuno version, iOS version, device model, and a description of the issue. Do not include Screen Time tokens or private browsing details.
 
-This page’s public URL and publication date are pending owner approval.
+This page’s publication date and final owner approval remain pending. The currently reachable URL is recorded in the T08 publication evidence.
